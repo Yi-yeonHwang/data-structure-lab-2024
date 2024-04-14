@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{60AA20FF-2429-4DD9-9DB1-9871CAEEFB10}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{60AA20FF-2429-4DD9-9DB1-9871CAEEFB10}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60AA20FF-2429-4DD9-9DB1-9871CAEEFB10}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AA20FF-2429-4DD9-9DB1-9871CAEEFB10}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60AA20FF-2429-4DD9-9DB1-9871CAEEFB10}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{60AA20FF-2429-4DD9-9DB1-9871CAEEFB10}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{60AA20FF-2429-4DD9-9DB1-9871CAEEFB10}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{60AA20FF-2429-4DD9-9DB1-9871CAEEFB10}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AA20FF-2429-4DD9-9DB1-9871CAEEFB10}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{60AA20FF-2429-4DD9-9DB1-9871CAEEFB10}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F2EC47E-A171-40F8-8657-4E5AF0E2C5F2}|Chap02_Array\\Chap02_Array.vcxproj|C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Array\\array_param.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F2EC47E-A171-40F8-8657-4E5AF0E2C5F2}|Chap02_Array\\Chap02_Array.vcxproj|solutionrelative:Chap02_Array\\array_param.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chap02_Class_Example\\ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Rectangle.h",
+              "RelativeDocumentMoniker": "Chap02_Class_Example\\Rectangle.h",
+              "ToolTip": "C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Rectangle.h",
+              "RelativeToolTip": "Chap02_Class_Example\\Rectangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T03:34:10.173Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +61,27 @@
               "RelativeDocumentMoniker": "Chap02_Class_Example\\main.cpp",
               "ToolTip": "C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\main.cpp",
               "RelativeToolTip": "Chap02_Class_Example\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-08T02:35:59.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "SportsCar.h",
+              "DocumentMoniker": "C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\SportsCar.h",
+              "RelativeDocumentMoniker": "Chap02_Class_Example\\SportsCar.h",
+              "ToolTip": "C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\SportsCar.h",
+              "RelativeToolTip": "Chap02_Class_Example\\SportsCar.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-08T03:08:28.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Car.h",
               "DocumentMoniker": "C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Car.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\Car.h",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "Chap02_Class_Example\\Car.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-08T02:23:04.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T02:23:04.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Complex.h",
               "DocumentMoniker": "C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Complex.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\Complex.h",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "Chap02_Class_Example\\Complex.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-03T02:38:02.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T02:38:02.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ComplexTest.cpp",
               "DocumentMoniker": "C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\ComplexTest.cpp",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\ComplexTest.cpp",
@@ -85,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "array_param.cpp",
               "DocumentMoniker": "C:\\Users\\Yiyeon Hwang\\Desktop\\data-structure-lab\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Array\\array_param.cpp",
               "RelativeDocumentMoniker": "Chap02_Array\\array_param.cpp",
