@@ -135,6 +135,7 @@
     <ClInclude Include="SportsCar.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="array_param.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
